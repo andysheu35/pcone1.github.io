@@ -1,0 +1,98 @@
+#box {
+
+    height: 80vh;
+    margin-left: auto;
+    margin-right: auto;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: 20px;
+    background-repeat: no-repeat;
+}
+
+#box1 {
+    margin-left: 30vh;
+    margin-top: 15vh;
+    background-image: url(../pcone/客廳_Unnamed\ space-9.png);
+    background-repeat: no-repeat;
+
+}
+
+
+
+.img-squre {
+    width: 1000px;
+    height: 119px;
+    background-size: cover;
+    display: inline-block;
+}
+
+
+
+
+.img-place {
+    background-image: url(../pcone/做啥.png);
+    margin-left: 270px;
+
+}
+
+.img-things {
+    background-image: url(../pcone/Sq_H.png);
+    margin-left: 650px;
+
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-position-x: 8px;
+}
+
+
+.img-triangle {
+    width: 360px;
+    height: 270px;
+
+}
+
+.img-things1 {
+    background-image: url();
+    margin-left: 800px;
+    display: inline-block;
+    margin-top: 200px;
+    box-sizing: border-box;
+}
+
+
+.img-triangle1 {
+    width: 150px;
+    height: 150px;
+}
+
+
+.img-things2 {
+    background-image: url(../pcone/打掃5.png);
+    margin-left: 20px;
+    display: inline-block;
+}
+
+
+.img-triangle2 {
+    width: 218px;
+    height: 88px;
+}
+
+a:hover {
+    background-image: url();
+    background-position-x: 9px;
+    background-position-y: -3px;
+    background-repeat: no-repeat;
+}
+
+.img-things3 {
+    background-image: url(../pcone/煮飯.png);
+    margin-left: 80px;
+    display: inline-block;
+}
+
+
+.img-triangle3 {
+    width: 218px;
+    height: 88px;
+}
